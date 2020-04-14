@@ -1,6 +1,6 @@
 # Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable no-dead-urls-->
-> [![Awesome List](https://github.com/socheatsok78/awesome-me/workflows/Awesome%20List/badge.svg)](https://github.com/socheatsok78/awesome-me/actions)  
+> [![Awesome][awesome-badge]](https://github.com/socheatsok78/awesome-me/actions)  
 > A curated list of awesome things related to my usage
 
 <!--lint enable no-dead-urls-->
@@ -65,3 +65,6 @@
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
+
+<!-- Variables -->
+[awesome-badge]: https://github.com/socheatsok78/awesome-me/workflows/Awesome/badge.svg
