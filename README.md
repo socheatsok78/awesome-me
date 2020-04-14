@@ -1,8 +1,8 @@
+# Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <!--lint disable awesome-list-item-->
-# Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome List](https://github.com/socheatsok78/awesome-me/workflows/Awesome%20List/badge.svg)](https://github.com/socheatsok78/awesome-me/actions)
+> [![Awesome List](https://github.com/socheatsok78/awesome-me/workflows/Awesome%20List/badge.svg)](https://github.com/socheatsok78/awesome-me/actions)  
+A curated list of awesome things related to my usage
 <!--lint enable awesome-list-item-->
-
-> A curated list of awesome things related to my usage
 
 ## Contents
 <!--lint disable awesome-list-item-->
