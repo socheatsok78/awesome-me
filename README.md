@@ -3,11 +3,11 @@
 > A curated list of awesome things related to my usage
 
 ## Applications
-### Design
+### Creative Design
 - [Affinity - Professional Creative Software](https://affinity.serif.com/)
 - [PixelSnap](https://getpixelsnap.com/)
 
-### Tools
+### Development Tools
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Atom](https://atom.io/)
 - [iTerm](https://www.iterm2.com/)
@@ -17,6 +17,10 @@
 - [Postman](https://www.postman.com/)
 - [TablePlus](https://tableplus.com/)
 - [Sequal Pro](https://www.sequelpro.com/)
+
+### System Planning
+- [XMind - Mind Mapping Tool](https://www.xmind.net/)
+- [Diagrams](https://app.diagrams.net/)
 - [Stoplight Studio](https://stoplight.io/)
 
 ### Virtualization
