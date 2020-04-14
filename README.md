@@ -37,6 +37,7 @@
 - [Packages](http://s.sudre.free.fr/Software/Packages/about.html)
 - [Pocket Casts](https://www.pocketcasts.com/)
 - [Ukelele](https://software.sil.org/ukelele/)
+- [Cyberduck - Connecting to every server](https://cyberduck.io/)
 
 ## Free-to-Play Games
 - [League of Legends](https://na.leagueoflegends.com/en-us/)
