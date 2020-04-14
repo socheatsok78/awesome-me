@@ -2,6 +2,16 @@
 
 > A curated list of awesome things related to my usage
 
+## Table of Contents
+- [Applications](#applications)
+  - [Creative Design](#creative-design)
+  - [Development Tools](#development-tools)
+  - [System Planning](#system-planning)
+  - [Virtualization](#virtualization)
+  - [Utilities](#utilities)
+- [Free-to-Play Games](#free-to-play-games)
+- [See also](#see-also)
+
 ## Applications
 ### Creative Design
 - [Affinity - Professional Creative Software](https://affinity.serif.com/)
@@ -17,6 +27,7 @@
 - [Postman](https://www.postman.com/)
 - [TablePlus](https://tableplus.com/)
 - [Sequal Pro](https://www.sequelpro.com/)
+
 
 ### System Planning
 - [XMind - Mind Mapping Tool](https://www.xmind.net/)
