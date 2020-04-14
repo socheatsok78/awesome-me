@@ -10,6 +10,7 @@
   - [System Planning](#system-planning)
   - [Virtualization](#virtualization)
   - [Utilities](#utilities)
+- [Khmer](#khmer)
 - [Free-to-Play Games](#free-to-play-games)
 - [See also](#see-also)
 <!--lint enable awesome-list-item-->
