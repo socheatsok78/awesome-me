@@ -1,9 +1,6 @@
 # Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!--lint disable no-dead-urls-->
 > [![Awesome][awesome-badge]](https://github.com/socheatsok78/awesome-me/actions)  
 > A curated list of awesome things related to my usage
-
-<!--lint enable no-dead-urls-->
 
 ## Contents
 <!--lint disable awesome-list-item-->
@@ -67,4 +64,6 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 
 <!-- Variables -->
+<!--lint disable no-dead-urls-->
 [awesome-badge]: https://github.com/socheatsok78/awesome-me/workflows/Awesome/badge.svg
+<!--lint enable no-dead-urls-->
