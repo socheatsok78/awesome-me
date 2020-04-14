@@ -1,4 +1,4 @@
-name: Lint Awesome List
+name: Awesome List
 on: [push, pull_request]
 jobs:
   lint:
