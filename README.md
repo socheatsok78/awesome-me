@@ -1,4 +1,4 @@
-# Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Awesome List](https://github.com/socheatsok78/awesome-me/workflows/Lint%20Awesome%20List/badge.svg?branch=master)
 
 > A curated list of awesome things related to my usage
 
