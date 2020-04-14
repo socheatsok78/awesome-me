@@ -52,6 +52,10 @@
 - [Ukelele](https://software.sil.org/ukelele/)
 - [Cyberduck - Connecting to every server](https://cyberduck.io/)
 
+### Khmer
+- [Khmer Unicode Brew Cask](https://github.com/pp-spaces/homebrew-khmer-unicode)
+- [Khmer Unicode for MacOS](https://github.com/socheatsok78/Khmer-Unicode-for-MacOS)
+
 ## Free-to-Play Games
 - [League of Legends](https://na.leagueoflegends.com/en-us/)
 - [World of Tanks](https://worldoftanks.eu/)
