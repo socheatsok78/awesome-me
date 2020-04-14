@@ -3,6 +3,7 @@
 > A curated list of awesome things related to my usage
 
 ## Table of Contents
+<!--lint disable awesome-list-item-->
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -11,6 +12,7 @@
   - [Utilities](#utilities)
 - [Free-to-Play Games](#free-to-play-games)
 - [See also](#see-also)
+<!--lint enable awesome-list-item-->
 
 ## Applications
 ### Creative Design
