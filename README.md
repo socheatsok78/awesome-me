@@ -35,7 +35,8 @@
 ### System Planning
 - [XMind - Mind Mapping Tool](https://www.xmind.net/)
 - [Diagrams](https://app.diagrams.net/)
-- [Stoplight Studio](https://stoplight.io/)
+- [Stoplight Studio](https://stoplight.io/) — API Design Management Platform
+- [Datensen](https://www.datensen.com/) — Data modeling tool
 
 ### Virtualization
 - [VMWare](https://www.vmware.com)
