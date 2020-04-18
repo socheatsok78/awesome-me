@@ -5,6 +5,8 @@
 ## Contents
 <!--lint disable awesome-list-item-->
 - [Platform](#platform)
+  - [Apache](#apache)
+  - [HashiCorp](#hashicorp)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
