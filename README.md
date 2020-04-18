@@ -4,6 +4,7 @@
 
 ## Contents
 <!--lint disable awesome-list-item-->
+- [Programming](#programming)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -14,6 +15,12 @@
 - [Free-to-Play Games](#free-to-play-games)
 - [See also](#see-also)
 <!--lint enable awesome-list-item-->
+
+## Programming
+### Apache
+- [Apache Mesos](http://mesos.apache.org/) - Datacenter Operating System
+- [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
+- [Apache Cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep
 
 ## Applications
 ### Creative Design
@@ -35,8 +42,8 @@
 ### System Planning
 - [XMind - Mind Mapping Tool](https://www.xmind.net/)
 - [Diagrams](https://app.diagrams.net/)
-- [Stoplight Studio](https://stoplight.io/) — API Design Management Platform
-- [Datensen](https://www.datensen.com/) — Data modeling tool
+- [Stoplight Studio](https://stoplight.io/) - API Design Management Platform
+- [Datensen](https://www.datensen.com/) - Data modeling tool
 
 ### Virtualization
 - [VMWare](https://www.vmware.com)
