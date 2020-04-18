@@ -4,6 +4,7 @@
 
 ## Contents
 <!--lint disable awesome-list-item-->
+- [DevOps](#devops)
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
@@ -17,6 +18,11 @@
 - [Free-to-Play Games](#free-to-play-games)
 - [See also](#see-also)
 <!--lint enable awesome-list-item-->
+
+## DevOps
+### CLI tools
+- [Homebrew](https://brew.sh/) - Package Manager for macOS.
+- [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing your zsh configuration.
 
 ## Platform
 ### [Apache](https://www.apache.org/)
