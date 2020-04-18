@@ -22,6 +22,14 @@
 - [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
 - [Apache Cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep
 
+### [HashiCorp](https://www.hashicorp.com/)
+- [Teraform](https://www.hashicorp.com/products/terraform/) - Cloud Infrastructure Automation
+- [Vault](https://www.hashicorp.com/products/vault/) - Manage Secrets and Protect Sensitive Data
+- [Consul](https://www.hashicorp.com/products/consul/) - Service-based networking for dynamic infrastructure
+- [Nomad](https://www.hashicorp.com/products/nomad/) - Deploy and Manage Any Application on Any Infrastructure with Ease
+- [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy
+- [Packer](https://www.packer.io/) - Build Automated Machine Images
+
 ## Applications
 ### Creative Design
 - [Affinity - Professional Creative Software](https://affinity.serif.com/)
