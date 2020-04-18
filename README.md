@@ -4,7 +4,7 @@
 
 ## Contents
 <!--lint disable awesome-list-item-->
-- [Programming](#programming)
+- [Platform](#platform)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -16,7 +16,7 @@
 - [See also](#see-also)
 <!--lint enable awesome-list-item-->
 
-## Programming
+## Platform
 ### Apache
 - [Apache Mesos](http://mesos.apache.org/) - Datacenter Operating System
 - [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
