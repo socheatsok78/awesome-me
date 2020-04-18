@@ -11,6 +11,7 @@
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
+  - [Others](#others)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -70,6 +71,9 @@
 - [Nomad](https://www.hashicorp.com/products/nomad/) - Deploy and Manage Any Application on Any Infrastructure with Ease.
 - [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy.
 - [Packer](https://www.packer.io/) - Build Automated Machine Images.
+
+### Others
+- [Kuma](https://kuma.io/) - The modern control plane for reliable service connectivity.
 
 ## Applications
 ### Creative Design
