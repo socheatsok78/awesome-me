@@ -20,17 +20,17 @@
 
 ## Platform
 ### [Apache](https://www.apache.org/)
-- [Apache Mesos](http://mesos.apache.org/) - Datacenter Operating System
-- [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform
-- [Apache Cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep
+- [Apache Mesos](http://mesos.apache.org/) - Datacenter Operating System.
+- [Apache Kafka](https://kafka.apache.org/) - A distributed streaming platform.
+- [Apache Cassandra](http://cassandra.apache.org/) - Manage massive amounts of data, fast, without losing sleep.
 
 ### [HashiCorp](https://www.hashicorp.com/)
-- [Teraform](https://www.hashicorp.com/products/terraform/) - Cloud Infrastructure Automation
-- [Vault](https://www.hashicorp.com/products/vault/) - Manage Secrets and Protect Sensitive Data
-- [Consul](https://www.hashicorp.com/products/consul/) - Service-based networking for dynamic infrastructure
-- [Nomad](https://www.hashicorp.com/products/nomad/) - Deploy and Manage Any Application on Any Infrastructure with Ease
-- [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy
-- [Packer](https://www.packer.io/) - Build Automated Machine Images
+- [Teraform](https://www.hashicorp.com/products/terraform/) - Cloud Infrastructure Automation.
+- [Vault](https://www.hashicorp.com/products/vault/) - Manage Secrets and Protect Sensitive Data.
+- [Consul](https://www.hashicorp.com/products/consul/) - Service-based networking for dynamic infrastructure.
+- [Nomad](https://www.hashicorp.com/products/nomad/) - Deploy and Manage Any Application on Any Infrastructure with Ease.
+- [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy.
+- [Packer](https://www.packer.io/) - Build Automated Machine Images.
 
 ## Applications
 ### Creative Design
@@ -52,8 +52,8 @@
 ### System Planning
 - [XMind - Mind Mapping Tool](https://www.xmind.net/)
 - [Diagrams](https://app.diagrams.net/)
-- [Stoplight Studio](https://stoplight.io/) - API Design Management Platform
-- [Datensen](https://www.datensen.com/) - Data modeling tool
+- [Stoplight Studio](https://stoplight.io/) - API Design Management Platform.
+- [Datensen](https://www.datensen.com/) - Data modeling tool.
 
 ### Virtualization
 - [VMWare](https://www.vmware.com)
