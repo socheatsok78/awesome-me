@@ -5,6 +5,7 @@
 ## Contents
 <!--lint disable awesome-list-item-->
 - [DevOps](#devops)
+  - [CLI tools](#cli-tools)
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
