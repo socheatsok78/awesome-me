@@ -11,7 +11,7 @@
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
-  - [Others](#others)
+  - [Kong HQ](#kong-hq)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -72,7 +72,7 @@
 - [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy.
 - [Packer](https://www.packer.io/) - Build Automated Machine Images.
 
-### Others
+### [Kong HQ](https://konghq.com/)
 - [Kuma](https://kuma.io/) - The modern control plane for reliable service connectivity.
 
 ## Applications
