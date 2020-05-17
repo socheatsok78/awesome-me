@@ -4,6 +4,7 @@
 
 ## Contents
 <!--lint disable awesome-list-item-->
+- [Schema](#schema)
 - [DevOps](#devops)
   - [Programming Language](#programming-language)
   - [Framework & Libraries](#framework--libraries)
@@ -22,6 +23,9 @@
 - [Free-to-Play Games](#free-to-play-games)
 - [See also](#see-also)
 <!--lint enable awesome-list-item-->
+
+## Schema
+- [JSON Schema Store](https://schemastore.azurewebsites.net/json/)
 
 ## DevOps
 ### Programming Language
@@ -90,7 +94,6 @@
 - [Postman](https://www.postman.com/)
 - [TablePlus](https://tableplus.com/)
 - [Sequal Pro](https://www.sequelpro.com/)
-
 
 ### System Planning
 - [XMind - Mind Mapping Tool](https://www.xmind.net/)
