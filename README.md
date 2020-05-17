@@ -1,5 +1,7 @@
 # Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> [![Awesome][awesome-badge]](https://github.com/socheatsok78/awesome-me/actions)
+
+[![Awesome][awesome-badge]](https://github.com/socheatsok78/awesome-me/actions)
+
 > A curated list of awesome things related to my usage
 
 ## Contents
