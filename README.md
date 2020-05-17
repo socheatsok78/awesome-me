@@ -1,5 +1,5 @@
 # Awesome Me [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> [![Awesome][awesome-badge]](https://github.com/socheatsok78/awesome-me/actions)  
+> [![Awesome][awesome-badge]](https://github.com/socheatsok78/awesome-me/actions)
 > A curated list of awesome things related to my usage
 
 ## Contents
@@ -31,14 +31,14 @@
 ### Programming Language
 - [Dart](https://dart.dev/)
 - [Go](https://golang.org/)
-- [NodeJS](https://nodejs.org/)
+- [Node.js](https://nodejs.org/)
 - [PHP](https://www.php.net/)
 - [Ruby](https://www.ruby-lang.org/)
 - [Shell Script](https://en.wikipedia.org/wiki/Shell_script)
 
 ### Framework & Libraries
 #### Dart
-- [Flutter](https://flutter.dev/) - Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop.
+- [Flutter](https://flutter.dev/) - Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop.
 - [Aqueduct](https://aqueduct.io/) - An object-oriented, multi-threaded HTTP server framework written in Dart.
 
 #### PHP
@@ -54,7 +54,7 @@
 - [Mockery](https://github.com/mockery/mockery) - A simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework.
 - [Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you.
 - [Psalm](https://github.com/vimeo/psalm/) - A static analysis tool for finding errors in PHP applications.
-- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
+- [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A tool to automatically fix PHP Coding Standards issues.
 - [Deployer](https://github.com/deployphp/deployer) - A deployment tool for PHP.
 
