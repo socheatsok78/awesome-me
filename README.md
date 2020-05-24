@@ -62,6 +62,7 @@
 
 ### CLI tools
 - [Homebrew](https://brew.sh/) - Package Manager for macOS.
+- [antigen](https://github.com/zsh-users/antigen)- Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing your zsh configuration.
 
 ## Platform
