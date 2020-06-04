@@ -63,7 +63,9 @@
 ### CLI tools
 - [Homebrew](https://brew.sh/) - Package Manager for macOS.
 - [antigen](https://github.com/zsh-users/antigen) - Antigen is a small set of functions that help you easily manage your shell (zsh) plugins, called bundles.
+- [antibody](https://github.com/getantibody/antibody) - Antibody is a shell plugin manager made from the ground up thinking about performance.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing your zsh configuration.
+- [typewritten](https://github.com/reobin/typewritten) - A minimal, informative zsh prompt theme.
 
 ## Platform
 ### [Apache](https://www.apache.org/)
