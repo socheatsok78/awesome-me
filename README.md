@@ -11,6 +11,7 @@
   - [Programming Language](#programming-language)
   - [Framework & Libraries](#framework--libraries)
   - [CLI tools](#cli-tools)
+  - [Others](#others)
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
@@ -66,6 +67,10 @@
 - [antibody](https://github.com/getantibody/antibody) - Antibody is a shell plugin manager made from the ground up thinking about performance.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing your zsh configuration.
 - [typewritten](https://github.com/reobin/typewritten) - A minimal, informative zsh prompt theme.
+
+### Others
+- [State of JavaScript](https://stateofjs.com/) - The state of JavaScript survey.
+- [PYPL](https://pypl.github.io/) - Popularity of programming language.
 
 ## Platform
 ### [Apache](https://www.apache.org/)
