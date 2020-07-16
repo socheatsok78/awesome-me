@@ -86,7 +86,7 @@
 - [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy.
 - [Packer](https://www.packer.io/) - Build Automated Machine Images.
 
-### Red Hat
+### [Red Hat](https://www.redhat.com/)
 - [Ansible](https://www.ansible.com/) - The enterprise solution for building and operating automation at scale.
 
 ### [Kong HQ](https://konghq.com/)
