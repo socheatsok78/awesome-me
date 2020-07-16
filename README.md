@@ -86,6 +86,9 @@
 - [Vagrant](https://www.vagrantup.com/) - Development Environments Made Easy.
 - [Packer](https://www.packer.io/) - Build Automated Machine Images.
 
+### Red Hat
+- [Ansible](https://www.ansible.com/) - The enterprise solution for building and operating automation at scale.
+
 ### [Kong HQ](https://konghq.com/)
 - [Kuma](https://kuma.io/) - The modern control plane for reliable service connectivity.
 
