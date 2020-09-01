@@ -15,8 +15,8 @@
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
-  - [Kong HQ](#kong-hq)
   - [Red Hat](#red-hat)
+  - [Kong HQ](#kong-hq)
   - [Containerize](#containerize)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
@@ -97,7 +97,7 @@
 
 ### Containerize
 - [Docker](https://www.docker.com/) - Package Software into Standardized Units for Development, Shipment and Deployment.
-- [Kubernetes](https://kubernetes.io/) - Automated container deployment, scaling, and management
+- [Kubernetes](https://kubernetes.io/) - Automated container deployment, scaling, and management.
 
 #### Container Applications
 - [fluentd](https://docs.fluentd.org/) - Fluentd is an open source data collector for unified logging layer.
