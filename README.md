@@ -16,6 +16,8 @@
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
   - [Kong HQ](#kong-hq)
+  - [Red Hat](#red-hat)
+  - [Containerize](#containerize)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -88,9 +90,17 @@
 
 ### [Red Hat](https://www.redhat.com/)
 - [Ansible](https://www.ansible.com/) - The enterprise solution for building and operating automation at scale.
+- [Cockpit](https://cockpit-project.org/) - The easy-to-use, integrated, glanceable, and open web-based interface for your servers.
 
 ### [Kong HQ](https://konghq.com/)
 - [Kuma](https://kuma.io/) - The modern control plane for reliable service connectivity.
+
+### Containerize
+- [Docker](https://www.docker.com/) - Package Software into Standardized Units for Development, Shipment and Deployment.
+- [Kubernetes](https://kubernetes.io/) - Automated container deployment, scaling, and management
+
+#### Container Applications
+- [fluentd](https://docs.fluentd.org/) - Fluentd is an open source data collector for unified logging layer.
 
 ## Applications
 ### Creative Design
