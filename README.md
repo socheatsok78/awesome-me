@@ -98,6 +98,7 @@
 ### Containerize
 - [Docker](https://www.docker.com/) - Package Software into Standardized Units for Development, Shipment and Deployment.
 - [Kubernetes](https://kubernetes.io/) - Automated container deployment, scaling, and management.
+- [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
 
 #### Container Applications
 - [fluentd](https://docs.fluentd.org/) - Fluentd is an open source data collector for unified logging layer.
