@@ -4,14 +4,13 @@
 
 > A curated list of awesome things related to my usage
 
-## Contents
+# Table of Contents
 <!--lint disable awesome-list-item-->
 - [Schema](#schema)
-- [DevOps](#devops)
+- [Developments](#developments)
   - [Programming Language](#programming-language)
   - [Framework & Libraries](#framework--libraries)
   - [CLI tools](#cli-tools)
-  - [Others](#others)
 - [Platform](#platform)
   - [Apache](#apache)
   - [HashiCorp](#hashicorp)
@@ -28,14 +27,19 @@
   - [Virtualization](#virtualization)
   - [Utilities](#utilities)
   - [Khmer](#khmer)
-- [Free-to-Play Games](#free-to-play-games)
+- [Games](#games)
+  - [Free-to-Play Games](#free-to-play-games)
+- [Others](#others)
 - [See also](#see-also)
+
 <!--lint enable awesome-list-item-->
 
+# Contents
 ## Schema
 - [JSON Schema Store](https://schemastore.azurewebsites.net/json/)
 
-## DevOps
+## Developments
+
 ### Programming Language
 - [Dart](https://dart.dev/)
 - [Go](https://golang.org/)
@@ -72,10 +76,6 @@
 - [antibody](https://github.com/getantibody/antibody) - Antibody is a shell plugin manager made from the ground up thinking about performance.
 - [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - Community-driven framework for managing your zsh configuration.
 - [typewritten](https://github.com/reobin/typewritten) - A minimal, informative zsh prompt theme.
-
-### Others
-- [State of JavaScript](https://stateofjs.com/) - The state of JavaScript survey.
-- [PYPL](https://pypl.github.io/) - Popularity of programming language.
 
 ## Platform
 ### [Apache](https://www.apache.org/)
@@ -156,18 +156,27 @@
 - [Khmer Unicode Brew Cask](https://github.com/pp-spaces/homebrew-khmer-unicode)
 - [Khmer Unicode for macOS](https://github.com/socheatsok78/Khmer-Unicode-for-MacOS)
 
-## Free-to-Play Games
+## Games
+
+### Free-to-Play Games
 - [League of Legends](https://na.leagueoflegends.com/en-us/)
 - [World of Tanks](https://worldoftanks.eu/)
 - [World of Warships](https://worldofwarships.com/)
 
-## See also
+### Others
+- [State of JavaScript](https://stateofjs.com/) - The state of JavaScript survey.
+- [PYPL](https://pypl.github.io/) - Popularity of programming language.
+
 > [😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
 
 - [Awesome Vue](https://github.com/vuejs/awesome-vue)
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 
-## License
+
+# See also
+<!--build see-also-->
+
+# License
 License under [MIT](LICENSE)
 
 <!-- Variables -->

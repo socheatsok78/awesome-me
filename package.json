@@ -1,0 +1,15 @@
+{
+  "name": "awesome-me",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.mjs",
+  "repository": "git@github.com:socheatsok78/awesome-me.git",
+  "author": "Socheat Sok <alex@socheat.net>",
+  "license": "MIT",
+  "scripts": {
+    "build": "node index.mjs"
+  },
+  "devDependencies": {
+    "zx": "^5.1.0"
+  }
+}

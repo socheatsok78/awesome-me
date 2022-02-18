@@ -1,0 +1,2 @@
+- [Games](#games)
+  - [Free-to-Play Games](#free-to-play-games)
