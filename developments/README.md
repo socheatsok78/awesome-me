@@ -8,6 +8,10 @@
 - [Ruby](https://www.ruby-lang.org/)
 - [Shell Script](https://en.wikipedia.org/wiki/Shell_script)
 
+### Distributed systems
+- [Spring](https://spring.io/) - Spring makes programming Java quicker, easier, and safer for everybody. Spring’s focus on speed, simplicity, and productivity has made it the world's most popular Java framework.
+- [Temporal](https://temporal.io/) - Temporal is a microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability.
+
 ### Framework & Libraries
 #### Dart
 - [Flutter](https://flutter.dev/) - Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop.

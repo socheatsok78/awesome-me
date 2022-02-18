@@ -20,6 +20,7 @@
   - [Containerize](#containerize)
     - [Container Orchestration](#container-orchestration)
     - [Container Applications](#container-applications)
+  - [Distributed Cloud Operating System](#distributed-cloud-operating-system)
 - [Applications](#applications)
   - [Creative Design](#creative-design)
   - [Development Tools](#development-tools)
@@ -47,6 +48,10 @@
 - [PHP](https://www.php.net/)
 - [Ruby](https://www.ruby-lang.org/)
 - [Shell Script](https://en.wikipedia.org/wiki/Shell_script)
+
+### Distributed systems
+- [Spring](https://spring.io/) - Spring makes programming Java quicker, easier, and safer for everybody. Spring’s focus on speed, simplicity, and productivity has made it the world's most popular Java framework.
+- [Temporal](https://temporal.io/) - Temporal is a microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability.
 
 ### Framework & Libraries
 #### Dart
@@ -104,14 +109,22 @@
 
 ### Containerize
 - [Docker](https://www.docker.com/) - Package Software into Standardized Units for Development, Shipment and Deployment.
-- [Kubernetes](https://kubernetes.io/) - Automated container deployment, scaling, and management.
-- [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
+- [LXD](https://linuxcontainers.org/lxd/) - LXD is a next generation system container and virtual machine manager. It offers a unified user experience around full Linux systems running inside containers or virtual machines.
+- [containerd](https://containerd.io/) - An industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 
 #### Container Orchestration
-- [portainer](https://github.com/portainer/portainer) - Portainer is a lightweight management UI which allows you to easily manage your different Docker environments.
+- [K3s](https://k3s.io/) - The certified Kubernetes distribution built for IoT & Edge computing.
+- [Kubernetes](https://kubernetes.io/) - Automated container deployment, scaling, and management.
+- [Rancher](https://rancher.com/) - From datacenter to cloud to edge, Rancher lets you deliver Kubernetes-as-a-Service..
+- [Portainer](https://github.com/portainer/portainer) - Portainer is a lightweight management UI which allows you to easily manage your different Docker environments.
 
 #### Container Applications
 - [fluentd](https://docs.fluentd.org/) - Fluentd is an open source data collector for unified logging layer.
+
+### Distributed Cloud Operating System
+- [Apache Mesos](https://mesos.apache.org/) - Program against your datacenter
+like it’s a single pool of resources.
+- [DC/OS](https://dcos.io/) - DC/OS is an open-source, distributed operating system based on the Apache Mesos distributed systems kernel.
 
 ## Applications
 ### Creative Design
