@@ -163,7 +163,7 @@
 - [World of Tanks](https://worldoftanks.eu/)
 - [World of Warships](https://worldofwarships.com/)
 
-### Others
+## Others
 - [State of JavaScript](https://stateofjs.com/) - The state of JavaScript survey.
 - [PYPL](https://pypl.github.io/) - Popularity of programming language.
 
