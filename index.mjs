@@ -39,10 +39,16 @@ const contents = await parseContents([
     await load('see-also/README.md')
 ])
 
+// load see-also
+const seeAlso = await parseContents([
+    await load('see-also/README.md')
+])
+
 // build
 let build = readme
 build = build.replace('<!--build toc-->', toc)
 build = build.replace('<!--build contents-->', contents)
+build = build.replace('<!--build see-also-->', seeAlso)
 
 // output
 console.log(build)
