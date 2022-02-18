@@ -167,11 +167,6 @@
 - [State of JavaScript](https://stateofjs.com/) - The state of JavaScript survey.
 - [PYPL](https://pypl.github.io/) - Popularity of programming language.
 
-> [😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)
-
-- [Awesome Vue](https://github.com/vuejs/awesome-vue)
-- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
-
 
 # See also
 > [😎 Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)

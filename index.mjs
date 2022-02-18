@@ -36,7 +36,6 @@ const contents = await parseContents([
     await load('applications/README.md'),
     await load('games/README.md'),
     await load('others/README.md'),
-    await load('see-also/README.md')
 ])
 
 // load see-also
